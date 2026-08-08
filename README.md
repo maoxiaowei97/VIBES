@@ -17,7 +17,7 @@ VIBES is a training-free framework for detecting and explaining far-field traffi
 ## Overview
 
 <p align="center">
-  <img src="assets/fig/Intro.pdf" alt="VIBES overview" width="100%">
+  <img src="assets/fig/Intro.png" alt="VIBES overview" width="100%">
 </p>
 
 The current implementation is organized as a strict three-stage pipeline:
@@ -51,7 +51,7 @@ The current implementation is organized as a strict three-stage pipeline:
 ## Method
 
 <p align="center">
-  <img src="assets/fig/Model.pdf" alt="VIBES method overview" width="100%">
+  <img src="assets/fig/Model.png" alt="VIBES method overview" width="100%">
 </p>
 
 VIBES follows a zoom-in-and-reason-out design:
