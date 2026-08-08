@@ -1,0 +1,10 @@
+numpy>=1.24
+opencv-python>=4.8
+torch>=2.1
+ultralytics>=8.3
+sahi>=0.11.18
+tqdm>=4.66
+Pillow>=10.0
+accelerate>=1.0
+transformers @ git+https://github.com/huggingface/transformers
+qwen-vl-utils>=0.0.14
