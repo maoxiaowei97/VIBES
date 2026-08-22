@@ -227,3 +227,22 @@ runs/<timestamp>/
 ```
 
 The event-level crop folders are the main bridge between Bayesian surprise detection and VLM reasoning. They preserve the focused visual evidence and metadata used for each semantic decision.
+
+## Citation
+
+If you find VIBES useful in your research, we would appreciate it if you could cite our paper:
+
+```bibtex
+@article{mao2026zoominreasonout,
+  title   = {Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused {VLM} Reasoning Guided by Bayesian Inference},
+  author  = {Mao, Xiaowei and Sui, Bowen and Zhang, Weijie and Yang, Yawen and
+             Guo, Shengnan and Zhao, Shilong and Lin, Jiaqi and Wu, Tingrui and
+             Lin, Youfang and Wan, Huaiyu},
+  journal = {arXiv preprint arXiv:2604.23724},
+  year    = {2026},
+  eprint  = {2604.23724},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url     = {https://arxiv.org/abs/2604.23724}
+}
+```
